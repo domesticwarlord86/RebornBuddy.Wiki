@@ -35,6 +35,9 @@ Almost all useful add-ons are included with RepoBuddy by default, so you probabl
 
 - :material-update: [**AlertMe**][alert-me] - Monitors chat and pings on certain events or patterns.
 - :material-update:[:fontawesome-brands-discord:][carbuncletech-discord] [**CarbuncleTech**][carbuncletech] - Misc plugins, including **Zoom Hack**, **Custom Game Titlebar**, and **SeleCR**.
+- - Zoom Hack - Removes the limit when zooming your camera out
+- - Customer Game Title Bar - Adds the name of the character to the game client's titlebar. Useful for multiboxing.
+- - SeleCR - Automatically select a combat routine based on the user's configuration to skip the manual selection dialog. Perfect for OrderBot profiles that switch classes/jobs.
 - :fontawesome-solid-check::material-update: [**ExBuddy**][exbuddy] - Support library for advanced OrderBot profiles.
 - [:fontawesome-brands-discord:][dw86-discord] [**Extractor**][extractor] - Extracts materia from fully spiritbonded gear during OrderBot profiles.
 - :material-update: [**DungeonAssist**][dungeon-assist] - TODO
